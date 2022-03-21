@@ -12,8 +12,8 @@
 12         to allow setting breakpoints, to provide hot reload, etc.
 13    -->
 14    <uses-permission android:name="android.permission.INTERNET" />
-14-->C:\Users\Harshit Saxena\AndroidStudioProjects\ecommerce_app\android\app\src\debug\AndroidManifest.xml:6:5-66
-14-->C:\Users\Harshit Saxena\AndroidStudioProjects\ecommerce_app\android\app\src\debug\AndroidManifest.xml:6:22-64
+14-->C:\Users\Harshit Saxena\AndroidStudioProjects\Flutter-Application\android\app\src\debug\AndroidManifest.xml:6:5-66
+14-->C:\Users\Harshit Saxena\AndroidStudioProjects\Flutter-Application\android\app\src\debug\AndroidManifest.xml:6:22-64
 15    <!-- Although the *SdkVersion is captured in gradle build files, this is required for non gradle builds -->
 16    <!-- <uses-sdk android:minSdkVersion="14" /> -->
 17    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
@@ -61,31 +61,31 @@
 56            android:value="2" />
 57
 58        <service
-58-->[:cloud_firestore] C:\Users\Harshit Saxena\AndroidStudioProjects\ecommerce_app\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-12:19
+58-->[:cloud_firestore] C:\Users\Harshit Saxena\AndroidStudioProjects\Flutter-Application\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-12:19
 59            android:name="com.google.firebase.components.ComponentDiscoveryService"
-59-->[:cloud_firestore] C:\Users\Harshit Saxena\AndroidStudioProjects\ecommerce_app\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:8:18-89
+59-->[:cloud_firestore] C:\Users\Harshit Saxena\AndroidStudioProjects\Flutter-Application\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:8:18-89
 60            android:directBootAware="true"
 60-->[com.google.firebase:firebase-common:20.1.0] C:\Users\Harshit Saxena\.gradle\caches\transforms-2\files-2.1\b25e52f5739b5665d39d607baa2467f6\jetified-firebase-common-20.1.0\AndroidManifest.xml:35:13-43
 61            android:exported="false" >
 61-->[com.google.firebase:firebase-firestore:24.0.2] C:\Users\Harshit Saxena\.gradle\caches\transforms-2\files-2.1\8123d9b95e838ead3ef24f5d7df1b3ec\jetified-firebase-firestore-24.0.2\AndroidManifest.xml:19:13-37
 62            <meta-data
-62-->[:cloud_firestore] C:\Users\Harshit Saxena\AndroidStudioProjects\ecommerce_app\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-11:85
+62-->[:cloud_firestore] C:\Users\Harshit Saxena\AndroidStudioProjects\Flutter-Application\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-11:85
 63                android:name="com.google.firebase.components:io.flutter.plugins.firebase.firestore.FlutterFirebaseFirestoreRegistrar"
-63-->[:cloud_firestore] C:\Users\Harshit Saxena\AndroidStudioProjects\ecommerce_app\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:10:17-134
+63-->[:cloud_firestore] C:\Users\Harshit Saxena\AndroidStudioProjects\Flutter-Application\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:10:17-134
 64                android:value="com.google.firebase.components.ComponentRegistrar" />
-64-->[:cloud_firestore] C:\Users\Harshit Saxena\AndroidStudioProjects\ecommerce_app\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:11:17-82
+64-->[:cloud_firestore] C:\Users\Harshit Saxena\AndroidStudioProjects\Flutter-Application\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:11:17-82
 65            <meta-data
-65-->[:firebase_storage] C:\Users\Harshit Saxena\AndroidStudioProjects\ecommerce_app\build\firebase_storage\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-11:85
+65-->[:firebase_storage] C:\Users\Harshit Saxena\AndroidStudioProjects\Flutter-Application\build\firebase_storage\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-11:85
 66                android:name="com.google.firebase.components:io.flutter.plugins.firebase.storage.FlutterFirebaseAppRegistrar"
-66-->[:firebase_storage] C:\Users\Harshit Saxena\AndroidStudioProjects\ecommerce_app\build\firebase_storage\intermediates\library_manifest\debug\AndroidManifest.xml:10:17-126
+66-->[:firebase_storage] C:\Users\Harshit Saxena\AndroidStudioProjects\Flutter-Application\build\firebase_storage\intermediates\library_manifest\debug\AndroidManifest.xml:10:17-126
 67                android:value="com.google.firebase.components.ComponentRegistrar" />
-67-->[:firebase_storage] C:\Users\Harshit Saxena\AndroidStudioProjects\ecommerce_app\build\firebase_storage\intermediates\library_manifest\debug\AndroidManifest.xml:11:17-82
+67-->[:firebase_storage] C:\Users\Harshit Saxena\AndroidStudioProjects\Flutter-Application\build\firebase_storage\intermediates\library_manifest\debug\AndroidManifest.xml:11:17-82
 68            <meta-data
-68-->[:firebase_core] C:\Users\Harshit Saxena\AndroidStudioProjects\ecommerce_app\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-11:85
+68-->[:firebase_core] C:\Users\Harshit Saxena\AndroidStudioProjects\Flutter-Application\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-11:85
 69                android:name="com.google.firebase.components:io.flutter.plugins.firebase.core.FlutterFirebaseCoreRegistrar"
-69-->[:firebase_core] C:\Users\Harshit Saxena\AndroidStudioProjects\ecommerce_app\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:10:17-124
+69-->[:firebase_core] C:\Users\Harshit Saxena\AndroidStudioProjects\Flutter-Application\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:10:17-124
 70                android:value="com.google.firebase.components.ComponentRegistrar" />
-70-->[:firebase_core] C:\Users\Harshit Saxena\AndroidStudioProjects\ecommerce_app\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:11:17-82
+70-->[:firebase_core] C:\Users\Harshit Saxena\AndroidStudioProjects\Flutter-Application\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:11:17-82
 71            <meta-data
 71-->[com.google.firebase:firebase-firestore:24.0.2] C:\Users\Harshit Saxena\.gradle\caches\transforms-2\files-2.1\8123d9b95e838ead3ef24f5d7df1b3ec\jetified-firebase-firestore-24.0.2\AndroidManifest.xml:20:13-22:85
 72                android:name="com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar"
