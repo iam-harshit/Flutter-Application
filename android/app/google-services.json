@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "174312995084",
+    "project_id": "flutterassignment-deepklarity",
+    "storage_bucket": "flutterassignment-deepklarity.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:174312995084:android:a012772eb3f6aec2ff3129",
+        "android_client_info": {
+          "package_name": "com.example.ecommerce_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "174312995084-9up7rp7apkssvlo7dq9vp302mdg6hulb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD063XdgKdm98RiBkxmjFjSiBhMJk5razA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "174312995084-9up7rp7apkssvlo7dq9vp302mdg6hulb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
